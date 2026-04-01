@@ -9,9 +9,9 @@ namespace ConsoleApp1
 {
     public class Submission
     {
-        public static string xmlURL = "https://yourusername.github.io/cse445_a4/NationalParks.xml";
-        public static string xmlErrorURL = "https://yourusername.github.io/cse445_a4/NationalParksErrors.xml";
-        public static string xsdURL = "https://yourusername.github.io/cse445_a4/NationalParks.xsd";
+        public static string xmlURL = "https://vkaushik2004.github.io/cse445_a4/NationalParks.xml";
+        public static string xmlErrorURL = "https://vkaushik2004.github.io/cse445_a4/NationalParksErrors.xml";
+        public static string xsdURL = "https://vkaushik2004.github.io/cse445_a4/NationalParks.xsd";
 
         public static void Main(string[] args)
         {
